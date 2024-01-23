@@ -1,0 +1,5 @@
+project                  = "falkon-staging"
+project_prefix           = "falkon"
+region                   = "us-east4"
+environment              = "staging"
+user_management_base_url = "https://api-staging.falkon.dsgov.demo.nuvalence.io/um"
