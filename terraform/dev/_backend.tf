@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "falkon-tfstate"
+    bucket = "falkon-0a51-tfstate"
     prefix = "identity-functions/dev"
   }
 }

@@ -1,1 +1,1 @@
-../shared_main.tf.tpl
+../shared_main.tf

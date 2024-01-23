@@ -15,7 +15,7 @@ data "terraform_remote_state" "env" {
   backend = "gcs"
 
   config = {
-    bucket = "falkon-tfstate"
+    bucket = "falkon-0a51-tfstate"
     prefix = "environments/${var.environment}"
   }
 }

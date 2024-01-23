@@ -1,1 +1,1 @@
-../shared_locals.tf.tpl
+../shared_locals.tf

@@ -1,4 +1,4 @@
-project                  = "falkon-dev"
+project                  = "falkon-dev-b6f2"
 project_prefix           = "falkon"
 region                   = "us-east4"
 environment              = "dev"
